@@ -6,11 +6,11 @@
 
 @font-face {
     font-family: 'HelveticaNeueRegular';
-    src: url('/fonts/helveticaneue-webfont.eot');
-    src: url('/fonts/helveticaneue-webfont.eot?iefix') format('eot'),
-         url('/fonts/helveticaneue-webfont.woff') format('woff'),
-         url('/fonts/helveticaneue-webfont.ttf') format('truetype'),
-         url('/fonts/helveticaneue-webfont.svg#webfont1veKQbMO') format('svg');
+    src: url('../fonts/helveticaneue-webfont.eot');
+    src: url('../fonts/helveticaneue-webfont.eot?iefix') format('eot'),
+         url('../fonts/helveticaneue-webfont.woff') format('woff'),
+         url('../fonts/helveticaneue-webfont.ttf') format('truetype'),
+         url('../fonts/helveticaneue-webfont.svg#webfont1veKQbMO') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -18,11 +18,11 @@
 
 @font-face {
     font-family: 'HelveticaNeueCondensedBold';
-    src: url('/fonts/helveticaneue-condensedbold-webfont.eot');
-    src: url('/fonts/helveticaneue-condensedbold-webfont.eot?iefix') format('eot'),
-         url('/fonts/helveticaneue-condensedbold-webfont.woff') format('woff'),
-         url('/fonts/helveticaneue-condensedbold-webfont.ttf') format('truetype'),
-         url('/fonts/helveticaneue-condensedbold-webfont.svg#webfont5yluDChI') format('svg');
+    src: url('../fonts/helveticaneue-condensedbold-webfont.eot');
+    src: url('../fonts/helveticaneue-condensedbold-webfont.eot?iefix') format('eot'),
+         url('../fonts/helveticaneue-condensedbold-webfont.woff') format('woff'),
+         url('../fonts/helveticaneue-condensedbold-webfont.ttf') format('truetype'),
+         url('../fonts/helveticaneue-condensedbold-webfont.svg#webfont5yluDChI') format('svg');
     font-weight: normal;
     font-style: normal;
 
